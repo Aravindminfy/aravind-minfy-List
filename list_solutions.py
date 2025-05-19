@@ -38,6 +38,8 @@ print(generate_matrix(3, 3))
 #   [0, 2, 4]
 # ]
 
+# this is for demo
+
 # ------------------------------------------------------------------------------------------------------------------
 
 #Write a function called transpose_matrix that takes a matrix (list of lists) and returns its transpose (rows become columns and vice versa).
