@@ -7,7 +7,7 @@ def filter_even_numbers(num):
 print(filter_even_numbers([1, 2, 3, 4, 5, 6]))  # Should return [2, 4, 6]
 print(filter_even_numbers([1, 3, 5]))  # Should return []
 
-#---------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------
 #Write a function called merge_sorted_lists that takes two sorted lists and returns a new sorted list containing all elements from both lists.
 
 def merge_sorted_lists(lis1,lis2):
