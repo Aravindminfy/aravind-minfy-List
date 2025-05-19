@@ -14,7 +14,6 @@ def merge_sorted_lists(lis1,lis2):
 
 # Example usage:
 print(merge_sorted_lists([1, 3, 5], [2, 4, 6]))  # Should return [1, 2, 3, 4, 5, 6]
-print(merge_sorted_lists([1, 2, 3], [4, 5, 6]))  # Should return [1, 2, 3, 4, 5, 6]
 
 
 #Write a function called generate_matrix that takes dimensions n and m, and returns an n×m matrix where each element at position (i,j) is calculated as i*j.
